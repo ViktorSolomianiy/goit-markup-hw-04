@@ -283,7 +283,6 @@ img {
 
 .team {
   background-color: var(--btn-gallery-color);
-  width: 1600px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -404,7 +403,6 @@ img {
   flex-wrap: wrap;
   margin-left: auto;
   margin-right: auto;
-  width: 1600px;
   padding-top: 60px;
   padding-bottom: 60px;
   min-height: 252px;
